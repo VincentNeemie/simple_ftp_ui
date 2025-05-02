@@ -23,8 +23,8 @@ No installation required beyond having Python installed.
 
 ```bash
 # Clone the repository
-git clone this repository
-cd simple-ftp-client
+git clone https://github.com/VincentNeemie/simple_ftp_ui.git
+cd simple_ftp_ui
 ```
 
 ## Usage
