@@ -2,7 +2,7 @@
 
 A lightweight GUI application for FTP file operations using tkinter.
 
-![FTP Client Screenshot](screenshot.png)
+![FTP Client Screenshot](reference.jpg)
 
 ## Features
 
@@ -32,7 +32,7 @@ cd simple-ftp-client
 Run the script with Python:
 
 ```bash
-python ftptool.py
+python main.py
 ```
 
 ## How to Use
